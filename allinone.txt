@@ -1,0 +1,14 @@
+1. 	Open Cmd
+2.	$	mkdir workingDirName
+3.	$	touch howtostartoff.txt allinone.txt cloning.txt remoterep.txt
+4.	$	cd workingDirName
+5.	$	git init	(CInitializing git in the current repository, creates .git folder)
+6.	$	git status	(for checking status of the repository and to know which all files are being tracked and which all are not)
+					(The ones appearing in red font are not being tracked.)
+7.	$	touch ignoredfile.txt
+8.	$	touch .gitignore
+9.	$	start .gitignore
+10.	#single line comment
+	ignoredfile.txt
+11.	
+
