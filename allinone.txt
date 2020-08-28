@@ -17,4 +17,10 @@
 14.	$	git status		
 		(All files that have been committed just now, wont appear here unless there are new changes on them in which case they will be shown red)
 15.	$	git log			(returns history of all previous commitments)
-16.	$	
+16.	Open browser, Login to github, create new remote repository, then copy the url
+	(ex.	https://github.com/RonyMathews-Radio/Local-and-remote-repository-trials.git)
+17. $	git remote add origin https://github.com/RonyMathews-Radio/Local-and-remote-repository-trials.git
+	(creating or linking to an online/remote repository)
+18.	$	git push -u origin master
+	(uploading all the committed files in master branch from local repository to remote repository origin branch)
+19.	
