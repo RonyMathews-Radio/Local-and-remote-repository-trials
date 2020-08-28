@@ -10,5 +10,11 @@
 9.	$	start .gitignore
 10.	#single line comment
 	ignoredfile.txt
-11.	
-
+11.	$	git add .		(Add all files excluding the ones in .gitignore to staging)
+12.	$	git status		(the files which are staged, and not yet committed and who have new changes will be shown in red)
+						(The files who have been staged, and not yet committed, and with no new changes will be green)
+13.	$	git commit -m "First commit but there are new changes in allinone.txt"
+14.	$	git status		
+		(All files that have been committed just now, wont appear here unless there are new changes on them in which case they will be shown red)
+15.	$	git log			(returns history of all previous commitments)
+16.	$	
