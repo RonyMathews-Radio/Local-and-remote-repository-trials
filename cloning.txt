@@ -1,0 +1,7 @@
+19. $	cd ~
+20. $	cd Desktop/
+21.	$	git clone https://github.com/RonyMathews-Radio/Local-and-remote-repository-trials.git
+	(downloaded and working fine)
+22. $ 	cd Local-and-remote-repository-trials/
+23. $	git logs		(shows all commitment logs and details)
+24.	$	git --help		(the help section for git commands)
