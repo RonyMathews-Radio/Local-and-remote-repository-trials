@@ -23,4 +23,12 @@
 	(creating or linking to an online/remote repository)
 18.	$	git push -u origin master
 	(uploading all the committed files in master branch from local repository to remote repository origin branch)
-19.	
+	(Uploaded successfully).
+	
+19. $	cd ~
+20. $	cd Desktop/
+21.	$	git clone https://github.com/RonyMathews-Radio/Local-and-remote-repository-trials.git
+	(downloaded and working fine)
+22. $ 	cd Local-and-remote-repository-trials/
+23. $	git logs		(shows all commitment logs and details)
+24.	$	git --help		(the help section for git commands)
